@@ -1,4 +1,4 @@
-# Tauri + Nuxt3 Minimal Starter
+# Tauri + Vue3/Nuxt3(Nitro)SSR Minimal Starter
 
 [Tauri documentation](https://tauri.app/v1/guides/getting-started/setup)
 [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
